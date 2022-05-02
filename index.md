@@ -1,5 +1,5 @@
 ---
-title: 2022 Workshop Mining Microbiomes
+title: Mining Microbiomes Workshop 2022
 layout: home
 description: ASM Microbe 2022 Course Workshop Materials for CW06. Mining Microbiomes- Analysis of Complex Microbiome Studies Using only a Laptop and Free Web Tools
 intro_image: "images/illustrations/website_screenshot.png"
