@@ -1,6 +1,6 @@
-baseurl: '/'
+baseurl: '/ASM-Mining-Microbiomes-2022'
 permalink: pretty
-title: 'Jekyll Serif'
+title: 'Mining Microbiomes Workshop 2022'
 
 Nephele: 'https://nephele.niaid.nih.gov/about_us/'
 MicrobiomeDB: 'https://microbiomedb.org/mbio/app/contact-us'
