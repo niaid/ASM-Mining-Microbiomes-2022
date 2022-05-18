@@ -1,11 +1,11 @@
 ---
-title: "Make an Account"
+title: "Make a Free Account"
 date: 2022-05-02T12:33:46+10:00
 featured: true
 weight: 1
 ---
 
-We recommend registering for Nephele and MicrobiomeDB accounts ahead of the workshop.
+We recommend registering for Nephele and MicrobiomeDB accounts ahead of the workshop.  Our web apps are free to use.
 
 
 
