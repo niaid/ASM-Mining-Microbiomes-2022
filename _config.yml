@@ -15,23 +15,26 @@ logo:
   desktop_width: "400px"
 
 collections:
-  services:
-    output: true
   team:
+    output: false
+  services:
+    output: false
+  info:
     output: true
 
+
 defaults:
-  - scope:
-      path: ""
-      type: "services"
-    values:
-      layout: "service"
   - scope:
       path: ""
       type: "team"
     values:
       layout: "team"
-
+  - scope:
+      path: ""
+      type: "services"
+    values:
+      layout: "service"
+  
 sass:
   indentWidth: 4
   style: compressed # possible values: nested expanded compact compressed
@@ -51,3 +54,6 @@ exclude:
   - LICENSE.md
   - LICENSE
   - README.md
+  - about.md
+  - team.md
+  - services.md

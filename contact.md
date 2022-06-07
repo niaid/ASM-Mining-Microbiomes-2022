@@ -11,5 +11,5 @@ If you have any questions before, during, or after the workshop, please contact 
 | **Daniel Beiting**      | MicrobiomeDB, University of Pennsylvania, Philadelphia, PA |
 | **Mariam Quiñones**     | Nephele, NIAID/NIH                                         |
 | **Ceylan Tanes**        | Children's Hospital of Philadelphia, Philadelphia, PA      |
-| **Poorani Subramanian** | Nephele, NIAID/NIH                                         |
+| [**Poorani Subramanian**](https://bioinformatics.niaid.nih.gov/metagenomics){:target="_blank"} | Nephele, NIAID/NIH                                         |
 

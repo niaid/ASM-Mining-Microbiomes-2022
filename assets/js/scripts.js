@@ -7,3 +7,13 @@ menuTrigger.onclick = function() {
     menuTrigger.classList.toggle('is-active')
     body.classList.toggle('lock-scroll')
 }
+
+function copyURI(evt) {
+    evt.preventDefault();
+    navigator.clipboard.writeText(evt.target.getAttribute('href')).then(() => {
+      /* clipboard successfully set */
+      alert("Copied the link.");
+    }, () => {
+      /* clipboard write failed */
+    });
+}
