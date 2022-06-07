@@ -10,8 +10,9 @@ weight: 1
 
 | Type | Globus Link to FASTQ folder                              | Mapping file                                             | Nephele Results | Biom |
 | -------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ----------- | -------- |
-| 16S      | [Copy 16S globus link](https://app.globus.org/file-manager?origin_id=f93d54fe-ac6d-4382-b174-2516b9e8795f&origin_path=%2F){:onclick="copyURI(event)"}                                         | <a href="../../download/16S_bangladesh_short_40samples.txt" download>16S_bangladesh_short_40samples.txt</a> | [5dce63b4e486](https://nephele.niaid.nih.gov/results/5dce63b4e486){:target="_blank"} | [16s_bangladesh.biom](../../download/16s_bangladesh.biom) |
-| WGS      | [Copy Globus link to hmp](https://app.globus.org/file-manager?origin_id=92363c64-bb7b-4343-9503-90339e8330a0&origin_path=%2F){:onclick="copyURI(event)"} | <a href="../../download/hmp_mapping_file.txt" title="8 sample hmp mapping file" download>hmp_mapping_file.txt</a> | [ee60339cb24b](https://nephele.niaid.nih.gov/results/ee60339cb24b){:target="_blank"} | [wgsa_hmp_8_sample.biom](../../download/wgsa_hmp_8_sample.biom) |
+| 16S      | [Copy 16S globus link](https://app.globus.org/file-manager?origin_id=f93d54fe-ac6d-4382-b174-2516b9e8795f&origin_path=%2F)                                         | <a href="../../download/16S_bangladesh_short_40samples.txt" download>16S_bangladesh_short_40samples.txt</a> | [5dce63b4e486](https://nephele.niaid.nih.gov/results/5dce63b4e486){:target="_blank"} | [16s_bangladesh.biom](../../download/16s_bangladesh.biom) |
+| WGS      | [Copy Globus link to hmp](https://app.globus.org/file-manager?origin_id=92363c64-bb7b-4343-9503-90339e8330a0&origin_path=%2F) | <a href="../../download/hmp_mapping_file.txt" title="8 sample hmp mapping file" download>hmp_mapping_file.txt</a> | [ee60339cb24b](https://nephele.niaid.nih.gov/results/ee60339cb24b){:target="_blank"} | [wgsa_hmp_8_sample.biom](../../download/wgsa_hmp_8_sample.biom) |
+
 {:class="table-big table-bordered table-dark-header"}
 
 
