@@ -35,3 +35,8 @@ $spacers: map-merge(
   ),
   $spacers
 );
+
+$table-accent-bg: #fff6f8;
+$table-cell-padding-big: 0.5rem;
+$table-dark-bg: $primary;
+$table-dark-border-color: $primary-dark;

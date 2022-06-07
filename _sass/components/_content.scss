@@ -90,4 +90,36 @@
     color: $steel;
     border-left: .25em solid $secondary;
   }
+  
+  .table-big {
+    th,
+    td {
+      padding: $table-cell-padding-big;
+    }
+  }
+  
+  .table-bordered {
+    border: $table-border-width solid $table-border-color;
+    th,
+    td {
+      border: $table-border-width solid $table-border-color;
+    }
+    
+    thead {
+      th,
+      td {
+        border-bottom-width: 2 * $table-border-width;
+      }
+    }
+  }
+  
+  .table-dark-header {
+    th {
+      white-space: nowrap;
+      color: $table-dark-color;
+      background-color: $table-dark-bg;
+      border-color: $table-dark-border-color;
+    }
+  }
 }
+
