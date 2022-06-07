@@ -1,0 +1,9 @@
+#SampleID	ForwardFastqFile	ReverseFastqFile	TreatmentGroup	SubjectID	Sex	Age	body_site	body_product	Description
+SRR060002	SRR060002_1.fastq.gz	SRR060002_2.fastq.gz	Oral swab	809635352	female	26	Buccal mucosa	Mucus	3394202
+SRR060021	SRR060021_1.fastq.gz	SRR060021_2.fastq.gz	Stool	809635352	female	26	Colon	Feces	11539955
+SRR060423	SRR060423_1.fastq.gz	SRR060423_2.fastq.gz	Oral swab	158479027	male	28	Buccal mucosa	Mucus	8304488
+SRR061323	SRR061323_1.fastq.gz	SRR061323_2.fastq.gz	Nostril swab	763435843	male	21	Nares	Mucus	9786241
+SRR061360	SRR061360_1.fastq.gz	SRR061360_2.fastq.gz	Nostril swab	763901136	female	28	Nares	Mucus	8711139
+SRR061996	SRR061996_1.fastq.gz	SRR061996_2.fastq.gz	Skin swab	159591683	male	27	Right retroauricular crease	Sebum	10122514
+SRR062538	SRR062538_1.fastq.gz	SRR062538_2.fastq.gz	Stool	764649650	female	23	Colon	Feces	7860591
+SRR346713	SRR346713_1.fastq.gz	SRR346713_2.fastq.gz	Skin swab	765094712	male	19	Right retroauricular crease	Sebum	2628997

@@ -1,0 +1,41 @@
+#SampleID	ForwardFastqFile	ReverseFastqFile	TreatmentGroup	Month	Description
+ERR3017699	ERR3017699_1.fastq	ERR3017699_2.fastq	infant	10	Text describing samples
+ERR3017735	ERR3017735_1.fastq	ERR3017735_2.fastq	infant	10	Text describing samples
+ERR3017787	ERR3017787_1.fastq	ERR3017787_2.fastq	infant	10	Text describing samples
+ERR3017843	ERR3017843_1.fastq	ERR3017843_2.fastq	infant	10	Text describing samples
+ERR3017895	ERR3017895_1.fastq	ERR3017895_2.fastq	infant	10	Text describing samples
+ERR3017945	ERR3017945_1.fastq	ERR3017945_2.fastq	infant	10	Text describing samples
+ERR3017982	ERR3017982_1.fastq	ERR3017982_2.fastq	infant	10	Text describing samples
+ERR3018033	ERR3018033_1.fastq	ERR3018033_2.fastq	infant	10	Text describing samples
+ERR3018088	ERR3018088_1.fastq	ERR3018088_2.fastq	infant	10	Text describing samples
+ERR3018142	ERR3018142_1.fastq	ERR3018142_2.fastq	infant	10	Text describing samples
+ERR3017710	ERR3017710_1.fastq	ERR3017710_2.fastq	baby	20	Text describing samples
+ERR3017745	ERR3017745_1.fastq	ERR3017745_2.fastq	baby	20	Text describing samples
+ERR3017797	ERR3017797_1.fastq	ERR3017797_2.fastq	baby	20	Text describing samples
+ERR3017852	ERR3017852_1.fastq	ERR3017852_2.fastq	baby	20	Text describing samples
+ERR3017903	ERR3017903_1.fastq	ERR3017903_2.fastq	baby	20	Text describing samples
+ERR3017953	ERR3017953_1.fastq	ERR3017953_2.fastq	baby	20	Text describing samples
+ERR3017993	ERR3017993_1.fastq	ERR3017993_2.fastq	baby	20	Text describing samples
+ERR3018043	ERR3018043_1.fastq	ERR3018043_2.fastq	baby	20	Text describing samples
+ERR3018096	ERR3018096_1.fastq	ERR3018096_2.fastq	baby	20	Text describing samples
+ERR3018150	ERR3018150_1.fastq	ERR3018150_2.fastq	baby	20	Text describing samples
+ERR3017717	ERR3017717_1.fastq	ERR3017717_2.fastq	toddler	30	Text describing samples
+ERR3017753	ERR3017753_1.fastq	ERR3017753_2.fastq	toddler	30	Text describing samples
+ERR3017805	ERR3017805_1.fastq	ERR3017805_2.fastq	toddler	30	Text describing samples
+ERR3017859	ERR3017859_1.fastq	ERR3017859_2.fastq	toddler	30	Text describing samples
+ERR3017911	ERR3017911_1.fastq	ERR3017911_2.fastq	toddler	30	Text describing samples
+ERR3020341	ERR3020341_1.fastq	ERR3020341_2.fastq	toddler	30	Text describing samples
+ERR3020345	ERR3020345_1.fastq	ERR3020345_2.fastq	toddler	30	Text describing samples
+ERR3020350	ERR3020350_1.fastq	ERR3020350_2.fastq	toddler	30	Text describing samples
+ERR3018107	ERR3018107_1.fastq	ERR3018107_2.fastq	toddler	30	Text describing samples
+ERR3018159	ERR3018159_1.fastq	ERR3018159_2.fastq	toddler	30	Text describing samples
+ERR3017782	ERR3017782_1.fastq	ERR3017782_2.fastq	five years	60	Text describing samples
+ERR3017838	ERR3017838_1.fastq	ERR3017838_2.fastq	five years	60	Text describing samples
+ERR3017891	ERR3017891_1.fastq	ERR3017891_2.fastq	five years	60	Text describing samples
+ERR3017941	ERR3017941_1.fastq	ERR3017941_2.fastq	five years	60	Text describing samples
+ERR3018083	ERR3018083_1.fastq	ERR3018083_2.fastq	five years	60	Text describing samples
+ERR3018139	ERR3018139_1.fastq	ERR3018139_2.fastq	five years	60	Text describing samples
+ERR3018191	ERR3018191_1.fastq	ERR3018191_2.fastq	five years	60	Text describing samples
+ERR3018242	ERR3018242_1.fastq	ERR3018242_2.fastq	five years	60	Text describing samples
+ERR3018298	ERR3018298_1.fastq	ERR3018298_2.fastq	five years	60	Text describing samples
+ERR3018354	ERR3018354_1.fastq	ERR3018354_2.fastq	five years	60	Text describing samples
