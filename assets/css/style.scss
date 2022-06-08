@@ -10,6 +10,12 @@ $white: #ffffff;
 $white-offset: #fff6f8;
 $steel: #5c5a5a;
 
+// Tables
+$table-accent-bg: #fff6f8;
+$table-cell-padding-big: 0.5rem;
+$table-dark-bg: $primary;
+$table-dark-border-color: $primary-dark;
+
 // Links
 $link-color: $primary;
 $link-decoration: none;
@@ -69,5 +75,39 @@ body {
   @include media-breakpoint-up(md) {
     font-size: 16px;
     line-height: 1.3;
+  }
+}
+
+.content {
+    
+  .table-big {
+    th,
+    td {
+      padding: $table-cell-padding-big;
+    }
+  }
+  
+  .table-bordered {
+    border: $table-border-width solid $table-border-color;
+    th,
+    td {
+      border: $table-border-width solid $table-border-color;
+    }
+    
+    thead {
+      th,
+      td {
+        border-bottom-width: 2 * $table-border-width;
+      }
+    }
+  }
+  
+  .table-dark-header {
+    th {
+      white-space: nowrap;
+      color: $table-dark-color;
+      background-color: $table-dark-bg;
+      border-color: $table-dark-border-color;
+    }
   }
 }
