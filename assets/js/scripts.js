@@ -8,18 +8,27 @@ menuTrigger.onclick = function() {
     body.classList.toggle('lock-scroll')
 }
 
-function myFunction() {
+function myFunction(myID) {
     /* Get the text field */
-    var copyText = document.getElementById("myInput");
+    var copyText = document.getElementById(myID);
   
-    /* Select the text field */
-    copyText.select();
-    copyText.setSelectionRange(0, 99999); /* For mobile devices */
+    // /* Select the text field */
+    // copyText.select();
+    // copyText.setSelectionRange(0, 99999); /* For mobile devices */
   
      /* Copy the text inside the text field */
-    navigator.clipboard.writeText(copyText.value);
+    navigator.clipboard.writeText(copyText.href);
   
     /* Alert the copied text */
-    alert("Copied the text: " + copyText.value);
+    alert("Copied the text: " + copyText.id);
   }
   
+  function copyURI(evt) {
+    evt.preventDefault();
+    navigator.clipboard.writeText(evt.target.getAttribute('href')).then(() => {
+      /* clipboard successfully set */
+      alert('Copied link.');
+    }, () => {
+      /* clipboard write failed */
+    });
+}
