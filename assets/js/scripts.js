@@ -25,9 +25,10 @@ function myFunction(myID) {
   
   function copyURI(evt) {
     evt.preventDefault();
-    navigator.clipboard.writeText(evt.target.getAttribute('href')).then(() => {
+    var link = evt.target.getAttribute('href');
+    navigator.clipboard.writeText(link).then(() => {
       /* clipboard successfully set */
-      alert('Copied link.');
+      alert('Copied link ' + link);
     }, () => {
       /* clipboard write failed */
     });

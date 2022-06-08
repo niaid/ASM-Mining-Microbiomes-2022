@@ -1,12 +1,11 @@
 ---
-title: Info/FAQ
+title: More Info
 layout: page
-description: Info and FAQ
+description: Info and Links
 bodyClass: page-about
 ---
 
-<!-- The text field -->
-<input type="text" value="Hello World" id="myInput">
+1. Here is an additional dataset to try.
 
-<!-- The button used to copy the text -->
-<button onclick="myFunction()">Copy text</button>
+## Links
+- [ASM Microbe Workshop description](https://www.abstractsonline.com/pp8/#!/10522/session/73)
