@@ -1,10 +1,14 @@
 ---
+hometitle: "2. Analyse Data"
 title: "Materials"
 layout: service
 date: 2022-05-02T12:33:46+10:00
 featured: true
 weight: 1
+split: "."
 ---
+
+These are the materials, data, slides, etc we will use in the workshop.
 
 ## Datasets
 

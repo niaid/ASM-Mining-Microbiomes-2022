@@ -1,9 +1,11 @@
 ---
-title: "Survey"
+hometitle: "3. Fill Out Survey"
+title: Survey
 layout: service
 date: 2022-06-07
 featured: true
 weight: 1
+split: "!"
 ---
 
 ## Feedback
