@@ -8,22 +8,9 @@ menuTrigger.onclick = function() {
     body.classList.toggle('lock-scroll')
 }
 
-function myFunction(myID) {
-    /* Get the text field */
-    var copyText = document.getElementById(myID);
+
   
-    // /* Select the text field */
-    // copyText.select();
-    // copyText.setSelectionRange(0, 99999); /* For mobile devices */
-  
-     /* Copy the text inside the text field */
-    navigator.clipboard.writeText(copyText.href);
-  
-    /* Alert the copied text */
-    alert("Copied the text: " + copyText.id);
-  }
-  
-  function copyURI(evt) {
+function copyURI(evt) {
     evt.preventDefault();
     var link = evt.target.getAttribute('href');
     navigator.clipboard.writeText(link).then(() => {
