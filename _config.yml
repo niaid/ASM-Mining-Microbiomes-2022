@@ -14,6 +14,7 @@ logo:
   desktop_height: "32px"
   desktop_width: "400px"
 
+
 collections:
   team:
     output: false
@@ -57,3 +58,4 @@ exclude:
   - about.md
   - team.md
   - services.md
+  - flyer.md

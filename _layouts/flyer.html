@@ -1,0 +1,107 @@
+---
+bodyClass: "page-home"
+---
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <title>{% if page.title %}{{page.title}}{% else %}{{ site.title | escape }}{% endif %}</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="icon" type="image/png" href="{{ '/images/favicon-32x32.svg' | relative_url }}">
+  <!-- Google Fonts CDN -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&display=swap" rel="stylesheet">
+  <!-- Self host font -->
+  <!-- <link rel="preload" href="{{ '/assets/fonts/playfair-display.woff2' | relative_url }}" as="font" type="font/woff2" crossorigin> -->
+  <link href="{{ '/assets/css/style.css' | relative_url }}" rel="stylesheet">
+  
+  {% if page.description %}<meta name="description" content="{{ page.description }}" />{% endif %}
+  {% if page.meta_title %}<meta property="og:title" content="{{ page.meta_title }}"/>{% else %}<meta property="og:title" content="{{ page.title }}"/>{% endif %}
+  <meta property="og:type" content="website"/>
+  <meta property="og:url" content="{{ url }}"/>
+  {% if page.image %}<meta property="og:image" content="{{ page.image | absolute_url }}"/>{% endif %}
+  {% if page.description %}<meta property="og:description" content="{{ page.description }}"/>{% endif %}
+  <meta name="twitter:card" content="summary"/>
+  {% if site.data.seo.meta_twitter_site %}<meta name="twitter:site" content="{{ site.seo.meta_twitter_site }}"/>{% endif %}
+  {% if site.data.seo.meta_twitter_creator %}<meta name="twitter:creator" content="{{ site.seo.meta_twitter_creator }}"/>{% endif %}
+
+</head>
+<body class='page {{layout.bodyClass}}'>
+  {% include main-menu-mobile.html %}
+  <div id="wrapper" class="wrapper">
+    <div class='header'>
+      <div class="container">
+        <div class="logo">
+          <a href="{{ site.baseurl }}"><img width="{{ site.logo.desktop_width }}" height="{{ site.logo.desktop_height }}" alt="{{ site.title }}" src="{{ site.logo.desktop | relative_url }}" /></a>
+        </div>
+        <div class="logo">
+          <a href="{{ site.baseurl }}"><img width="{{ site.logo.mobile_width }}" height="{{ site.logo.mobile_height }}" alt="{{ site.title }}" src="{{ site.logo.mobile | relative_url }}" /></a>
+        </div>
+        {% include main-menu.html %}
+        {% include hamburger.html %}
+      </div>
+    </div>
+    
+
+<div class="intro" style="padding-bottom:30px !important;">
+  <div class="container">
+    <div class="row justify-content-start">
+      <div class="col-12 col-md-7 col-lg-6 order-2 order-md-1">
+        {{ content }}
+        {% if page.show_call_box %}
+        <div class="call">
+          <div class="call-box-top">
+            {% if site.data.contact.contact_nephele_link %}
+            <div class="call-phone"><strong>Nephele: </strong> <a href="{{ site.data.contact.contact_nephele_link }}">nephelesupport@nih.gov</a> </div>
+            {% endif %}
+            {% if site.data.contact.contact_microbiomedb_link %}
+            <div class="call-phone"><strong>MicrobiomeDB: </strong>
+            <a href="{{ site.data.contact.contact_microbiomedb_link }}">
+              https://microbiomedb.org/mbio/app/contact-us
+              </a>
+              </div>
+              <!-- <a href="{{ site.data.contact.contact_microbiomedb_link }}">Contact MicrobiomeDB</a> -->
+              {% endif %}
+          </div>
+        </div>
+        {% endif %}
+      </div>
+      {% if page.intro_image %}
+      <div class="col-12 col-md-5 col-lg-6 order-1 order-md-2 position-relative">
+        <img alt="{{ page.title }}" class="intro-image{% if page.intro_image_absolute %} intro-image-absolute{% endif %}{% if page.intro_image_hide_on_mobile %} intro-image-hide-mobile{% endif %}" src="{{ page.intro_image | relURL }}" />
+      </div>
+      {% endif %}
+    </div>
+  </div>
+</div>
+
+<div class="strip">
+  <div class="container pt-6 pb-6 pb-md-10">
+    <div class="row justify-content-start">
+      {% for service in site.data.flyer %}
+      <div class="col-12 col-md-4 mb-1">
+        <div class="service service-summary">
+          <div class="service-content">
+            <h2 class="service-title flyer-title">
+              {{ service.title }}
+            </h2>
+            <p class="flyer-content">{{ service.content }}</p>
+          </div>
+        </div>
+      </div>
+      {% endfor %}
+      </div>
+  </div>
+</div>
+
+  </div>
+  {% include footer.html %}
+  {% include sub-footer.html %}
+  <script type="text/javascript" src="{{ '/assets/js/scripts.js' | relative_url }}"></script>
+  {% include google-analytics.html %}
+</body>
+</html>
+
