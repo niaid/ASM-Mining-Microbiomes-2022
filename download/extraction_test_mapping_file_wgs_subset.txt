@@ -37,27 +37,3 @@ SampleID	ForwardFastqFile	ReverseFastqFile	TreatmentGroup	sample_type_2	host_sub
 12201.stool.human.J.3.3.zymoMA.H	ERR8529952_1.fastq	ERR8529952_2.fastq	Zymo MagBead	human feces	human.J	Swabbed fecal material
 12201.stool.human.fresh.A.1.3.microbiome20.H	ERR4702177_1.fastq	ERR4702177_2.fastq	MagMAX Microbiome	human feces	human.A	human feces
 12201.stool.human.fresh.A.1.3.qiagen.H	ERR4702178_1.fastq	ERR4702178_2.fastq	PowerSoil	human feces	human.A	human feces
-12201.stool.mouse.J.3.homebrew.H	ERR8577765_1.fastq	ERR8577765_2.fastq	Homebrew	mouse feces	mouse.J	Single fecal pellet
-12201.stool.mouse.J.3.magmax.H	ERR8577369_1.fastq	ERR8577369_2.fastq	MagMax Beta	mouse feces	mouse.J	Single fecal pellet
-12201.stool.mouse.J.3.norgen.H	ERR8577370_1.fastq	ERR8577370_2.fastq	Norgen	mouse feces	mouse.J	Single fecal pellet
-12201.stool.mouse.J.3.pro.H	ERR8577371_1.fastq	ERR8577371_2.fastq	PowerSoil Pro	mouse feces	mouse.J	Single fecal pellet
-12201.stool.mouse.J.3.standard.H	ERR8577372_1.fastq	ERR8577372_2.fastq	PowerSoil	mouse feces	mouse.J	Single fecal pellet
-12201.stool.mouse.J.3.zymo.H	ERR8577766_1.fastq	ERR8577766_2.fastq	Zymo MagBead	mouse feces	mouse.J	Single fecal pellet
-12201.stool.mouse.K.3.homebrew.H	ERR8577771_1.fastq	ERR8577771_2.fastq	Homebrew	mouse feces	mouse.K	Single fecal pellet
-12201.stool.mouse.K.3.magmax.H	ERR8577381_1.fastq	ERR8577381_2.fastq	MagMax Beta	mouse feces	mouse.K	Single fecal pellet
-12201.stool.mouse.K.3.norgen.H	ERR8577382_1.fastq	ERR8577382_2.fastq	Norgen	mouse feces	mouse.K	Single fecal pellet
-12201.stool.mouse.K.3.pro.H	ERR8577383_1.fastq	ERR8577383_2.fastq	PowerSoil Pro	mouse feces	mouse.K	Single fecal pellet
-12201.stool.mouse.K.3.standard.H	ERR8577384_1.fastq	ERR8577384_2.fastq	PowerSoil	mouse feces	mouse.K	Single fecal pellet
-12201.stool.mouse.K.3.zymo.H	ERR8577772_1.fastq	ERR8577772_2.fastq	Zymo MagBead	mouse feces	mouse.K	Single fecal pellet
-12201.stool.mouse.L.3.microbiome.H	ERR8529961_1.fastq	ERR8529961_2.fastq	MagMAX Microbiome	mouse feces	mouse.L	Single fecal pellet
-12201.stool.mouse.L.3.nucleomag.H	ERR8529962_1.fastq	ERR8529962_2.fastq	NucleoMag Food	mouse feces	mouse.L	Single fecal pellet
-12201.stool.mouse.L.3.powersoil.H	ERR8529963_1.fastq	ERR8529963_2.fastq	PowerSoil	mouse feces	mouse.L	Single fecal pellet
-12201.stool.mouse.L.3.zymoMA.H	ERR8529964_1.fastq	ERR8529964_2.fastq	Zymo MagBead	mouse feces	mouse.L	Single fecal pellet
-12201.stool.mouse.M.3.microbiome.H	ERR8529973_1.fastq	ERR8529973_2.fastq	MagMAX Microbiome	mouse feces	mouse.M	Single fecal pellet
-12201.stool.mouse.M.3.nucleomag.H	ERR8529974_1.fastq	ERR8529974_2.fastq	NucleoMag Food	mouse feces	mouse.M	Single fecal pellet
-12201.stool.mouse.M.3.powersoil.H	ERR8529975_1.fastq	ERR8529975_2.fastq	PowerSoil	mouse feces	mouse.M	Single fecal pellet
-12201.stool.mouse.M.3.zymoMA.H	ERR8529976_1.fastq	ERR8529976_2.fastq	Zymo MagBead	mouse feces	mouse.M	Single fecal pellet
-12201.stool.mouse.S.3.microbiome20.H	ERR4702186_1.fastq	ERR4702186_2.fastq	MagMAX Microbiome	mouse feces	mouse S	mouse feces
-12201.stool.mouse.S.3.qiagen.H	ERR4702187_1.fastq	ERR4702187_2.fastq	PowerSoil	mouse feces	mouse S	mouse feces
-12201.stool.mouse.T.3.microbiome20.H	ERR4702195_1.fastq	ERR4702195_2.fastq	MagMAX Microbiome	mouse feces	mouse T	mouse feces
-12201.stool.mouse.T.3.qiagen.H	ERR4702196_1.fastq	ERR4702196_2.fastq	PowerSoil	mouse feces	mouse T	mouse feces
