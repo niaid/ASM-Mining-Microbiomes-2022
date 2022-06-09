@@ -1,0 +1,21 @@
+#SampleID	ForwardFastqFile	envmaterial	extractionkit
+ERR8521804	ERR8521804.fastq.gz	saliva	Homebrew
+ERR8521805	ERR8521805.fastq.gz	saliva	MagMax Beta
+ERR8521807	ERR8521807.fastq.gz	saliva	Homebrew
+ERR8521808	ERR8521808.fastq.gz 	saliva	MagMax Beta
+ERR8521810	ERR8521810.fastq.gz	saliva	Homebrew
+ERR8521811	ERR8521811.fastq.gz	saliva	MagMax Beta
+ERR8521813	ERR8521813.fastq.gz	saliva	Homebrew
+ERR8521814	ERR8521814.fastq.gz	saliva	MagMax Beta
+ERR8521816	ERR8521816.fastq.gz	saliva	Homebrew
+ERR8521817	ERR8521817.fastq.gz	saliva	MagMax Beta
+ERR8521989	ERR8521989.fastq.gz	feces	Homebrew
+ERR8521990	ERR8521990.fastq.gz	feces	MagMax Beta
+ERR8521992	ERR8521992.fastq.gz	feces	Homebrew
+ERR8521993	ERR8521993.fastq.gz	feces	MagMax Beta
+ERR8521995	ERR8521995.fastq.gz	feces	Homebrew
+ERR8521996	ERR8521996.fastq.gz	feces	MagMax Beta
+ERR8521998	ERR8521998.fastq.gz	feces	Homebrew
+ERR8521999	ERR8521999.fastq.gz	feces	MagMax Beta
+ERR8522001	ERR8522001.fastq.gz	feces	Homebrew
+ERR8522002	ERR8522002.fastq.gz	feces	MagMax Beta
