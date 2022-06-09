@@ -32,7 +32,9 @@ bodyClass: page-about
 
 4. [Please fill out our survey!]({{ site.data.contact.survey_link  }})
 
-5. [ASM Microbe Workshop description](https://www.abstractsonline.com/pp8/#!/10522/session/73)
+5. [Feedback form for new MicrobiomeDB visualization tools](https://forms.gle/84wCfJ2ZNhc6TThcA)
 
-6. [Register for Nephele & MicrobiomeDB accounts](../info/account)
+6. [ASM Microbe Workshop description](https://www.abstractsonline.com/pp8/#!/10522/session/73)
+
+7. [Register for Nephele & MicrobiomeDB accounts](../info/account)
 
