@@ -22,6 +22,9 @@ bodyClass: page-about
 2. **Q:** If I have a biom file, but the metadata is incorrect?  How do I fix it before submitting to MicrobiomeDB?
 
    **A:** [Nephele's diversity downstream analysis pipeline](https://nephele.niaid.nih.gov/user_guide_pipes/#da_pipes) can modify the biom file's metadata based on the mapping file that you submit.  So, you can submit the corrected metadata in the mapping file, and it will replace the existing metadata in the biom file.
+   
+3. **Q:** How can I submit my sequence data that I analyze in Nephele and MicrobiomeDB to SRA (e.g. in preparation for publishing)?  
+   **A:** You can use NIAID's [METAGENOTE](https://metagenote.niaid.nih.gov/) application to submit data to SRA.  See [this tutorial](https://nephele.niaid.nih.gov/submit_data_sra/).
 
 
 3. Come see the Nephele WGSA v2 pipeline poster on Saturday, June 11:
