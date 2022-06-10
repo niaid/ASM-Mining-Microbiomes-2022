@@ -30,11 +30,13 @@ bodyClass: page-about
 3. Come see the Nephele WGSA v2 pipeline poster on Saturday, June 11:
     <a href="../images/illustrations/poster_handout_adobe_small.pdf" title="click here to see the full sized image" target="_blank"><img src="../images/illustrations/poster_handout_small.png" alt="nephele poster EEB1107"  class="intro-image" style="max-width: 50%"/></a>
 
-4. [Please fill out our survey!]({{ site.data.contact.survey_link  }})
+4. [Workshop slides]({{ site.baseurl }}info/materials/#slides)
 
-5. [Feedback form for new MicrobiomeDB visualization tools](https://forms.gle/84wCfJ2ZNhc6TThcA)
+5. [Please fill out our survey!]({{ site.baseurl }}info/survey/#feedback-for-workshop)
 
-6. [ASM Microbe Workshop description](https://www.abstractsonline.com/pp8/#!/10522/session/73)
+6. [Feedback form for new MicrobiomeDB visualization tools]({{ site.baseurl }}info/survey/#feedback-for-featuremicrobiomedborg)
 
-7. [Register for Nephele & MicrobiomeDB accounts](../info/account)
+7. [ASM Microbe Workshop description](https://www.abstractsonline.com/pp8/#!/10522/session/73)
+
+8. [Register for Nephele & MicrobiomeDB accounts](../info/account)
 

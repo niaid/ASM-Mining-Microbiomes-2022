@@ -9,7 +9,7 @@ menuTrigger.onclick = function() {
 }
 
 
-  
+
 function copyURI(evt) {
     evt.preventDefault();
     var link = evt.target.getAttribute('href');

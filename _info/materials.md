@@ -8,7 +8,11 @@ weight: 1
 split: "."
 ---
 
-These are the materials, data, results etc we will use in the workshop.
+These are the slides, data, results etc we will use in the workshop.
+
+## Slides
+
+Here are Ceylan Tanes' [presentations on 16S and WGS metagenomics analysis]({{ site.data.contact.slides_link }}){:target="_blank"}.
 
 ## Datasets
 
