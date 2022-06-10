@@ -10,23 +10,23 @@ This repo is forked from https://raw.githubusercontent.com/zerostaticthemes/jeky
 
 Since this is a fork there are some files that we don't use (I deleted the ones that seemed to interfere and just left the others).  Here is what we do use:
 
-- [index.md] is the home page
-- [faq.md] is the Info/FAQ page
-- [contact.md] is the [Contact page](https://niaid.github.io/ASM-Mining-Microbiomes-2022/contact/) with our names
-- [_info] is the directory that houses the pages linked at the bottom of the home page
-  - [_info/account.md] - [how to make an account](https://niaid.github.io/ASM-Mining-Microbiomes-2022/info/account/)
-  - [_info/materials.md] - [materials page](https://niaid.github.io/ASM-Mining-Microbiomes-2022/info/materials/)
-  - [_info/survey.md] - [survey page](https://niaid.github.io/ASM-Mining-Microbiomes-2022/info/survey/)
+- [index.md](index.md) is the home page
+- [faq.md](faq.md) is the Info/FAQ page
+- [contact.md](contact.md) is the [Contact page](https://niaid.github.io/ASM-Mining-Microbiomes-2022/contact/) with our names
+- [_info](_info) is the directory that houses the pages linked at the bottom of the home page
+  - [_info/account.md](_info/account.md) - [how to make an account](https://niaid.github.io/ASM-Mining-Microbiomes-2022/info/account/)
+  - [_info/materials.md](_info/materials.md) - [materials page](https://niaid.github.io/ASM-Mining-Microbiomes-2022/info/materials/)
+  - [_info/survey.md](_info/survey.md) - [survey page](https://niaid.github.io/ASM-Mining-Microbiomes-2022/info/survey/)
   - subpages that are linked from the materials page
-    - [_info/pipeline_outputs.md] - Nephele [pipeline outputs notes](https://niaid.github.io/ASM-Mining-Microbiomes-2022/info/pipeline_outputs)
-    - [_info/submit_job.md] - Nephele [job submit notes](https://niaid.github.io/ASM-Mining-Microbiomes-2022/info/submit_job/)
-- [download] - has the files hosted on the website for download (mapping file, poster)
-- [images/illustrations] - pngs 
-- [images/logo] - logo which is what is in top left of website
-- [_data] directory
-  - [menus.yml] - top right menu
-  - [contact.yml] - links to contact info and other links that are used in multiple parts of the site (so you can change them in one place)
-- [_config.yml] - main configuration file for the site
+    - [_info/pipeline_outputs.md](_info/pipeline_outputs.md) - Nephele [pipeline outputs notes](https://niaid.github.io/ASM-Mining-Microbiomes-2022/info/pipeline_outputs)
+    - [_info/submit_job.md](_info/submit_job.md) - Nephele [job submit notes](https://niaid.github.io/ASM-Mining-Microbiomes-2022/info/submit_job/)
+- [download](download) - has the files hosted on the website for download (mapping file, poster)
+- [images/illustrations](images/illustrations) - pngs 
+- [images/logo](images/logo) - logo which is what is in top left of website
+- [_data](_data) directory
+  - [menus.yml](_data/menus.yml) - top right menu
+  - [contact.yml](_data/contact.yml) - links to contact info and other links that are used in multiple parts of the site (so you can change them in one place)
+- [_config.yml](_config.yml) - main configuration file for the site
   - **collections:** true only for the directories we used which is info
   - **exclude:** exclude all the files and directories we didn't use
 
