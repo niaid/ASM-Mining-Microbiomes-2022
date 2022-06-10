@@ -32,8 +32,10 @@ Here are Ceylan Tanes' [presentations on 16S and WGS metagenomics analysis]({{ s
   | five years     |    60 | 10 |
   {:class="table-bordered"}
 
-  - [Output notes](../../info/pipeline_outputs/#dada2-16s)
+  - [Nephele workflow notes]({{ site.baseurl }}info/submit_job)
 
+  - [Output notes](../../info/pipeline_outputs/#dada2-16s)
+  
     
 
 <br />
@@ -48,4 +50,5 @@ Here are Ceylan Tanes' [presentations on 16S and WGS metagenomics analysis]({{ s
   | Skin swab      | Right retroauricular crease | Sebum        | 2 |  
   {:class="table-bordered"}
 
+  - [Nephele workflow notes]({{ site.baseurl }}info/submit_job/#wgs-job)
   - [Output notes](../../info/pipeline_outputs/#wgsa-v2)
