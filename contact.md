@@ -12,4 +12,4 @@ If you have any questions before, during, or after the workshop, please contact 
 | **Mariam Quiñones**                                          | Nephele, NIAID/NIH                                         |
 | **Ceylan Tanes**                                             | Children's Hospital of Philadelphia, Philadelphia, PA      |
 | [**Poorani Subramanian**](https://bioinformatics.niaid.nih.gov/metagenomics){:target="_blank"} | Nephele, NIAID/NIH                                         |
-| Ann Blevins                                                  | MicrobiomeDB, University of Pennsylvania, Philadelphia, PA |
+| **Ann Blevins**                                              | MicrobiomeDB, University of Pennsylvania, Philadelphia, PA |
